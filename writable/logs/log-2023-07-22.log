@@ -1,0 +1,239 @@
+CRITICAL - 2023-07-22 06:16:20 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:17:42 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/delete_pen...')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/delete_pen...')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-22 06:18:00 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:18:17 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/delete_pen...')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/delete_pen...')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-22 06:20:35 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:21:38 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:23:31 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:24:27 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:27:36 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:29:45 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:30:14 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/delete_pen...')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/delete_pen...')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-22 06:30:22 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:32:43 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:32:48 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:35:20 --> Too few arguments to function App\Controllers\Home::delete_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->delete_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-22 06:49:01 --> syntax error, unexpected ''alamat'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Home/pengguna')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Home/pengguna')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-22 07:02:21 --> Invalid file: edit_pengguna.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_pengguna.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('edit_pengguna', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(94): view('edit_pengguna', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('2')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:12:03 --> Cannot redeclare App\Controllers\Home::jadwal()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-07-22 07:19:32 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:21:24 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:24:50 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:24:57 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:26:53 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:27:18 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:27:56 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:29:04 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:31:55 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:35:19 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-22 07:35:30 --> Invalid file: tambah_jadwal.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('tambah_jadwal.p...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('tambah_jadwal', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(162): view('tambah_jadwal', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

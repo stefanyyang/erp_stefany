@@ -1,0 +1,253 @@
+CRITICAL - 2023-07-30 00:00:22 --> Invalid file: header.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('header.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('header', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(467): view('header', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_lab('2')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-30 00:14:15 --> Call to undefined method App\Models\M_model::getRow
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(547): CodeIgniter\Model->__call('getRow', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_kelas('0')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 00:16:19 --> Too few arguments to function App\Controllers\Home::edit_kelas(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_kelas()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 00:18:20 --> Too few arguments to function App\Controllers\Home::edit_kelas(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_kelas()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 01:49:03 --> Too few arguments to function App\Controllers\Home::edit_kelas(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_kelas()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 01:53:32 --> Too few arguments to function App\Controllers\Home::edit_kelas(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_kelas()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 03:20:59 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(188): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 03:21:27 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(188): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 03:21:41 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(188): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 03:22:27 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(188): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 03:22:31 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(188): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 03:23:08 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(188): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 03:32:28 --> Too few arguments to function App\Controllers\Home::edit_pengguna(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 07:34:49 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\stefany\app\Controllers\Home.php on line 590
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(590): view('partial/header', NULL)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pelajaran()
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 07:35:23 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\stefany\app\Controllers\Home.php on line 590
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(590): view('partial/header', NULL)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pelajaran()
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 07:35:28 --> Argument 2 passed to view() must be of the type array, null given, called in C:\xampp\htdocs\stefany\app\Controllers\Home.php on line 590
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(590): view('partial/header', NULL)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pelajaran()
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 07:44:20 --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/blok')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/blok')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 07:44:49 --> syntax error, unexpected 'else' (T_ELSE)
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/blok')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/blok')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 07:55:28 --> Invalid file: partial/menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partial/menu.ph...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('partial/menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(298): view('partial/menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->jadwal()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-07-30 08:02:54 --> Call to undefined method App\Models\M_model::monsterRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(366): CodeIgniter\Model->__call('monsterRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_jadwal('4')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 08:23:39 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pdf_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 08:24:17 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pdf_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 08:24:21 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pdf_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 08:25:25 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pdf_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 08:29:58 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pdf_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 08:32:28 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->excel_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 08:46:42 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pdf_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 08:57:05 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->excel_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 09:00:50 --> Class 'Dompdf\Dompdf' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->pdf_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 09:19:42 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->excel_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-30 10:14:02 --> syntax error, unexpected '{'
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/jadwal')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/jadwal')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 10:24:01 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(192): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-30 10:24:11 --> Call to undefined method App\Models\M_model::ultraRows
+#0 C:\xampp\htdocs\stefany\app\Controllers\Home.php(192): CodeIgniter\Model->__call('ultraRows', Array)
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_pengguna('6')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

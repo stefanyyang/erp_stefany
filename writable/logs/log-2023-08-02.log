@@ -1,0 +1,81 @@
+CRITICAL - 2023-08-02 03:27:32 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\stefany\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('partial/side_me...', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(280): view('partial/side_me...')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-02 07:32:03 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\stefany\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('filter', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(792): view('filter', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->laporan_jadwal()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-02 07:32:19 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\stefany\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('filter', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(792): view('filter', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->laporan_jadwal()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-02 07:33:16 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\stefany\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('filter', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(792): view('filter', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->laporan_jadwal()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-02 07:36:25 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\stefany\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('filter', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(792): view('filter', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->laporan_jadwal()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-02 07:36:57 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\stefany\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('filter', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(792): view('filter', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->laporan_jadwal()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2023-08-02 07:57:18 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::getResult()
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->cari_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-02 07:59:21 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::tampil()
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->cari_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-08-02 07:59:29 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::tampil()
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->cari_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}

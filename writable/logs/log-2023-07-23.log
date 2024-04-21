@@ -1,0 +1,64 @@
+ERROR - 2023-07-23 04:45:36 --> Column 'sesi' cannot be null
+ERROR - 2023-07-23 04:46:38 --> Column 'sesi' cannot be null
+ERROR - 2023-07-23 07:41:07 --> Column 'sesi' cannot be null
+ERROR - 2023-07-23 07:45:13 --> Column 'sesi' cannot be null
+CRITICAL - 2023-07-23 07:47:08 --> Call to a member function tampil() on null
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+ERROR - 2023-07-23 07:49:30 --> Column 'sesi' cannot be null
+ERROR - 2023-07-23 07:51:35 --> Column 'sesi' cannot be null
+CRITICAL - 2023-07-23 09:50:59 --> Too few arguments to function App\Controllers\Home::edit_jadwal(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-23 09:52:46 --> Too few arguments to function App\Controllers\Home::edit_jadwal(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-23 09:56:41 --> Too few arguments to function App\Controllers\Home::edit_jadwal(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-23 09:57:26 --> Too few arguments to function App\Controllers\Home::edit_jadwal(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-23 09:57:57 --> Too few arguments to function App\Controllers\Home::edit_jadwal(), 0 passed in C:\xampp\htdocs\stefany\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_jadwal()
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2023-07-23 10:06:41 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/lab')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/lab')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2023-07-23 10:22:03 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Home/kelas')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('Home/kelas')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

@@ -1,0 +1,12 @@
+CRITICAL - 2024-03-21 09:01:39 --> syntax error, unexpected '}', expecting end of file
+#0 C:\xampp\htdocs\stefany\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('partial/side_me...', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(707): view('partial/side_me...')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->blok()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2024-03-21 09:37:49 --> Unknown column 'siswa' in 'field list'
+ERROR - 2024-03-21 09:39:04 --> Unknown column 'siswa' in 'field list'

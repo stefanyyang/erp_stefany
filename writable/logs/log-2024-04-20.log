@@ -1,0 +1,240 @@
+CRITICAL - 2024-04-20 03:46:39 --> Cannot redeclare App\Controllers\Home::edit_blok()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-04-20 03:49:00 --> Cannot redeclare App\Controllers\Home::delete_blok()
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-04-20 04:16:35 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-04-20 04:17:09 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('homee/coba')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('homee/coba')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2024-04-20 04:17:48 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-04-20 04:18:38 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('homee/coba')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('homee/coba')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2024-04-20 04:19:24 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('homee/coba')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('homee/coba')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2024-04-20 04:19:57 --> Class 'BaseController' not found
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('homee/coba')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('homee/coba')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2024-04-20 04:21:10 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-04-20 04:21:53 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('homee/coba')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('homee/coba')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2024-04-20 04:22:14 --> syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('homee/coba')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('homee/coba')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2024-04-20 04:32:42 --> Invalid file: menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(21): view('menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:35:26 --> Invalid file: bunga/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bunga/side_menu...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('bunga/side_menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('bunga/side_menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:37:46 --> Invalid file: bunga/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bunga/side_menu...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('bunga/side_menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('bunga/side_menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:40:12 --> Invalid file: bunga/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bunga/side_menu...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('bunga/side_menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('bunga/side_menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:40:14 --> Invalid file: partial/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partial/side_me...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('partial/side_me...', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(299): view('partial/side_me...')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:40:16 --> Invalid file: partial/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partial/side_me...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('partial/side_me...', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(937): view('partial/side_me...', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->tambah_hadir()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:40:17 --> Invalid file: partial/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partial/side_me...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('partial/side_me...', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(37): view('partial/side_me...')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->hadir()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:40:18 --> Invalid file: bunga/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bunga/side_menu...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('bunga/side_menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('bunga/side_menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:40:20 --> Invalid file: partial/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('partial/side_me...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('partial/side_me...', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(299): view('partial/side_me...')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:40:41 --> Invalid file: bunga/side_menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bunga/side_menu...')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('bunga/side_menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('bunga/side_menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:44:40 --> Invalid file: menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('menu.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:50:50 --> Invalid file: bunga/menu.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bunga/menu.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('bunga/menu', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('bunga/menu')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 04:53:51 --> Invalid file: bunga/div.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('bunga/div.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('bunga/div', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(20): view('bunga/div')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 05:04:58 --> Invalid file: kepala.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('kepala.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('kepala', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\stefany.php(19): view('kepala')
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\stefany->coba()
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\stefany))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2024-04-20 05:07:23 --> Column 'nama_blok' cannot be null
+CRITICAL - 2024-04-20 22:36:07 --> syntax error, unexpected 'return' (T_RETURN), expecting identifier (T_STRING)
+#0 C:\xampp\htdocs\stefany\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('home/dasboard')
+#1 C:\xampp\htdocs\stefany\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('home/dasboard')
+#2 C:\xampp\htdocs\stefany\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-04-20 22:52:42 --> Column 'nama' cannot be null
+ERROR - 2024-04-20 22:53:42 --> Column 'nama' cannot be null
+ERROR - 2024-04-20 22:57:26 --> Column 'nama' cannot be null
+ERROR - 2024-04-20 23:26:58 --> Column 'nama' cannot be null
+CRITICAL - 2024-04-20 23:27:00 --> Invalid file: edit_hadir.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_hadir.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('edit_hadir', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(974): view('edit_hadir', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_hadir('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-04-20 23:31:41 --> Invalid file: edit_hadir.php
+#0 C:\xampp\htdocs\stefany\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_hadir.php')
+#1 C:\xampp\htdocs\stefany\system\Common.php(1089): CodeIgniter\View\View->render('edit_hadir', Array, true)
+#2 C:\xampp\htdocs\stefany\app\Controllers\Home.php(974): view('edit_hadir', Array)
+#3 C:\xampp\htdocs\stefany\system\CodeIgniter.php(832): App\Controllers\Home->edit_hadir('1')
+#4 C:\xampp\htdocs\stefany\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\stefany\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\stefany\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\stefany\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
